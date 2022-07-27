@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-Just for fun
+SHU 毕业的一名普通本科生
+
+计算机好难，只想讨口饭吃
