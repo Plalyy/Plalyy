@@ -3,7 +3,7 @@
 
 --- 
 
-Recently plan:
+Recent plans:
 
 1. Develop Outwinter: ow-web, ow-erp
 
