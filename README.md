@@ -4,13 +4,8 @@
 --- 
 
 Recent plans:
-
-1. Develop Outwinter: ow-web, ow-erp
-
-2. Prepare travel: mountain journey, strategy and equipment
-
-3. Watermelon: develop waterline, learn tie
-
-4. Blog: fix deploy action
-
-5. Labs: 6.824, dom
+- [**OutWinter**](https://github.com/outwinter): ow-web, ow-erp
+- **Travel**: mountain journey and equipment
+- [**Watermelon**](https://github.com/Watermelon-Family): develop waterline, learn tie
+- [**Blog**](https://plalyy.github.io/): fix deploy action
+- [**Labs**](https://github.com/labs): 6.824, dom
