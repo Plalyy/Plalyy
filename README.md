@@ -5,20 +5,12 @@
 
 Recently plan:
 
-1. Develop Outwinter
-   - ow-web in progress
-   - ow-erp in progress
+1. Develop Outwinter: ow-web, ow-erp
 
-2. Prepare travel
-   - mountain: journey, strategy and equipment
+2. Prepare travel: mountain journey, strategy and equipment
 
-3. Watermelon
-   - develop waterline
-   - learn tie
+3. Watermelon: develop waterline, learn tie
 
-4. Blog
-   - fix deploy action
+4. Blog: fix deploy action
 
-5. Labs
-   - 6.824
-   - dom
+5. Labs: 6.824, dom
