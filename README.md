@@ -5,7 +5,6 @@
 
 Recent plans:
 - [**OutWinter**](https://github.com/outwinter): ow-web, ow-erp
-- **Travel**: mountain journey and equipment
 - [**Watermelon**](https://github.com/Watermelon-Family): develop waterline, learn tie
 - [**Blog**](https://plalyy.github.io/): fix deploy action
 - [**Labs**](https://github.com/labs): 6.824, dom
