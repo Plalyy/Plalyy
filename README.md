@@ -8,3 +8,4 @@ Recent plans:
 - [**Watermelon**](https://github.com/Watermelon-Family): develop waterline, learn tie
 - [**Blog**](https://plalyy.github.io/): fix deploy action
 - [**Labs**](https://github.com/labs): 6.824, dom
+- [**mini-tiktok**] for fun
