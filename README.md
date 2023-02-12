@@ -5,6 +5,5 @@
 
 Recent plans:
 - [**OutWinter**](https://github.com/outwinter): ow-web, ow-erp
-- [**Watermelon**](https://github.com/Watermelon-Family): develop waterline, learn tie
-- [**Blog**](https://plalyy.github.io/): fix deploy action
-- [**Labs**](https://github.com/labs): 6.824, dom
+- [**Watermelon**](https://github.com/Watermelon-Family): waterline
+- [**Labs**](https://github.com/labs): 6.824
