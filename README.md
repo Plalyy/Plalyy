@@ -4,6 +4,5 @@
 --- 
 
 Recent plans:
-- [**OutWinter**](https://github.com/outwinter): ow-web, ow-erp
-- [**Watermelon**](https://github.com/Watermelon-Family): waterline
+- [**OutWinter**](https://github.com/outwinter): ow-web
 - [**Labs**](https://github.com/labs): 6.824
