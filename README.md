@@ -4,5 +4,4 @@
 --- 
 
 Recent plans:
-- [**OutWinter**](https://github.com/outwinter): ow-web
 - [**Labs**](https://github.com/labs): 6.824
