@@ -5,3 +5,5 @@
 
 Recent plans:
 - [**Labs**](https://github.com/labs): 6.824
+- persional projects
+- personal tool chain
