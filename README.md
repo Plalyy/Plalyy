@@ -1,1 +1,1 @@
-Explore and Innovate
+Innovate
